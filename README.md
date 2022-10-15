@@ -1,1 +1,1 @@
-# joined-repo
+# Terraform Practice repo
